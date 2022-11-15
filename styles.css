@@ -16,6 +16,12 @@ footer {
   font-family: sans-serif;
 }
 
+.ass{
+  color: #DBEDF3;
+  font-family: sans-serif;
+  margin: 5rem;
+  text-decoration: underline;
+}
 .w {
    background-image: url("images/tom1.png");
 }
