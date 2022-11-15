@@ -28,7 +28,7 @@ for(var i=0;i<buttons.length;i++){
   });
   buttons[i].addEventListener("mouseup", function(){
     var btext = this.textContent;
-    buttonanimaton(btext);
+    buttonclass(btext).classList.remove("pressed");
   });
 }
 
