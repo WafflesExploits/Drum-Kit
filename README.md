@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  > This website was created as a exercise to practice my JavaScript.
+  > 🥁 Drum to your heart's content.
 </h3>
 <h3 dir="auto" align="center">
   > Live website <a href="https://wafflesexploit.github.io/Drum-Kit/" >here</a>.
