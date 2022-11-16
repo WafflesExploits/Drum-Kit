@@ -21,13 +21,12 @@
 
 ## General Information
 - A basic online drum kit, just play with the keys displayed or just click the instrument you want to play.
-- This website was made to practice my jQuery & JavaScript Skills.
+- This website was made to practice my JavaScript Skills.
 
 ## Technologies Used
 - HTML5
 - CSS3
 - JavaScript
-- jQuery
 - Atom Editor
 - Firefox DevTools
 
