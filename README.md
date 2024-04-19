@@ -7,7 +7,7 @@
   > 🥁 Drum to your heart's content.
 </h3>
 <h3 dir="auto" align="center">
-  > Live website <a href="https://wafflesexploit.github.io/Drum-Kit/" >here</a>.
+  > Live website <a href="https://wafflesexploits.github.io/Drum-Kit/" >here</a>.
 </h3>
 
 ## Table of Contents
